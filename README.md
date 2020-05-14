@@ -2,15 +2,22 @@
 
 A new Flutter Travelkuy application. Designed by Bagas Nirwan, Code with Flutter by Abdul Aziz Ahwan
 
-## Getting Started
+# Travelkuy UI Design - Flutter UI Best Practice
 
-This project is a starting point for a Flutter application.
+## [Watch it on YouTube]()
 
-A few resources to get you started if this is your first Flutter project:
+**Packages we are using:**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+- flutter_swiper: [link](https://pub.dev/packages/flutter_swiper)
+- google_fonts: [link](https://pub.dev/packages/google_fonts)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Fonts**
+
+- Inter [link](https://fonts.google.com/specimen/Inter)
+
+**UI Credit**
+
+- Design by: Bagas Nirwan [link](https://dribbble.com/bagasnirwan)
+
+
