@@ -6,6 +6,9 @@ A new Flutter Travelkuy application. Designed by Bagas Nirwan, Code with Flutter
 
 ## [Watch it on YouTube]()
 
+**Project Starter Code**
+- flutter_travelkuy_app_starter.zip [get file](https://gum.co/WWgFX)
+
 **Packages we are using:**
 
 - flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
