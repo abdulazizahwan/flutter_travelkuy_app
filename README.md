@@ -20,4 +20,6 @@ A new Flutter Travelkuy application. Designed by Bagas Nirwan, Code with Flutter
 
 - Design by: Bagas Nirwan [link](https://dribbble.com/bagasnirwan)
 
+### Daily Exercises App Final UI
 
+![Travelkuy App UI Design](/final_ui.png)
