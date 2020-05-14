@@ -8,13 +8,13 @@ A new Flutter Travelkuy application. Designed by Bagas Nirwan, Code with Flutter
 
 **Packages we are using:**
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-- flutter_swiper: [link](https://pub.dev/packages/flutter_swiper)
-- google_fonts: [link](https://pub.dev/packages/google_fonts)
+- flutter_svg: [get package](https://pub.dev/packages/flutter_svg)
+- flutter_swiper: [get package](https://pub.dev/packages/flutter_swiper)
+- google_fonts: [get package](https://pub.dev/packages/google_fonts)
 
 **Fonts**
 
-- Inter [link](https://fonts.google.com/specimen/Inter)
+- Inter [get font](https://fonts.google.com/specimen/Inter)
 
 **UI Credit**
 
