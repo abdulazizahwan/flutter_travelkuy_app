@@ -18,7 +18,7 @@ A new Flutter Travelkuy application. Designed by Bagas Nirwan, Code with Flutter
 
 **UI Credit**
 
-- Design by: Bagas Nirwan [link](https://dribbble.com/bagasnirwan)
+- Design by: Bagas Nirwan [see the profile](https://dribbble.com/bagasnirwan)
 
 ### Travelkuy App Final UI
 
